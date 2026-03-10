@@ -59,9 +59,12 @@ Benvenuto/a sul mio profilo GitHub! 🚀
 
 ## 📈 Statistiche
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=VicEnri&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicEnri&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VicEnri&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicEnri&layout=compact&theme=radical" />
+</p>
+
 
 ## 💬 Contattami
 
