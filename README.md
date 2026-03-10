@@ -56,16 +56,6 @@ Benvenuto/a sul mio profilo GitHub! 🚀
 - [**Calcolatrice**](https://github.com/VicEnri/SSGS-CALC): calcolatrice base usata per test GitHub Actions.
 - [**Laboratorio Node.js CLI**](https://github.com/VicEnri/SSGS-LAB2): progetto CLI Node.js dove ho completato setup, test e CI con GitHub Actions.
 
-
-## 📈 Statistiche
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VicEnri&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VicEnri&layout=compact&theme=radical" />
-</p>
-
-
 ## 💬 Contattami
 
 - 📫 Email: enricovicale99@gmail.com
